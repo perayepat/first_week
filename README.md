@@ -15,25 +15,31 @@
 
 
 
-<img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif?cid=ecf05e479ucqfgt6e3i3yxtp5iiuqwax4ii3zviy4th5oq5t&rid=giphy.gif&ct=g" alt="Markdownify" width="700">
+
 
 ## Challenges 
+
+<img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif?cid=ecf05e479ucqfgt6e3i3yxtp5iiuqwax4ii3zviy4th5oq5t&rid=giphy.gif&ct=g" alt="Markdownify" width="700">
 
 *  Navigating the new github menu 
 * Making the journal entrees interesting 
 
-<img src="https://media.giphy.com/media/noPJ38LkojKla/giphy.gif?cid=ecf05e47zlqcomqvgrym9pzw57pza3rmwntmdh9ii83s313o&rid=giphy.gif&ct=g" alt="Markdownify" width="500">
+
 
 
 ## Solutions 
+
+<img src="https://media.giphy.com/media/noPJ38LkojKla/giphy.gif?cid=ecf05e47zlqcomqvgrym9pzw57pza3rmwntmdh9ii83s313o&rid=giphy.gif&ct=g" alt="Markdownify" width="500">
 
 * I took my time going through the menu's to understand what some but not all the new features did. 
 * To make something interesting i'v realised you need to put some dents in it (by dents I mean character and personality)
 
 
-<img src="https://media.giphy.com/media/VGtI1Qytxh0IfgQ2P4/giphy.gif?cid=ecf05e47t84iu4wna61jf04lkvvduu2oke9phj35spzc7ax6&rid=giphy.gif&ct=g" alt="Markdownify" width="500">
+
 
 ## New Found Features 
+
+<img src="https://media.giphy.com/media/VGtI1Qytxh0IfgQ2P4/giphy.gif?cid=ecf05e47t84iu4wna61jf04lkvvduu2oke9phj35spzc7ax6&rid=giphy.gif&ct=g" alt="Markdownify" width="500">
 
 These are new things iv discovered about markdown 
 
